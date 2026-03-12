@@ -1,0 +1,10 @@
+[
+  {
+    "task": "Master Backend",
+    "completed": true
+  },
+  {
+    "task": "TODO CLI App",
+    "completed": false
+  }
+]
